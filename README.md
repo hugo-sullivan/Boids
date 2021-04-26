@@ -1,5 +1,6 @@
 # Boids
-Created with CodeSandbox
+Created with CodeSandbox 
+Can watch the code run at this link https://lpg6o.csb.app/
 
 The boid concept is based on Craig Reynolds http://www.red3d.com/cwr/boids/ and the boid implementation by Ben Eater https://eater.net/boids.
 
